@@ -1,4 +1,8 @@
-# First Time Setup
+# PDF Chat App
+
+## Demo
+![ScreenRecording2025-07-28at12 39 08-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/58287ea5-a997-479c-b159-4a04f6e7a709)
+
 
 ## Using Pipenv [Recommended]
 
